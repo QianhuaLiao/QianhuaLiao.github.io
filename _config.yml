@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Qianhua Liao'
+title: "Qianhua's Blog"
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'A place for fun, thoughts and exploration.'
@@ -42,7 +42,7 @@ urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "QL.png"
+logo: "Qianhua.png"
 
 # Plugins
 plugins:

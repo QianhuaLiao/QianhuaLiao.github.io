@@ -1,0 +1,20 @@
+.site-heading {
+    text-align: center;
+    h1 {
+      font-size: 50px;
+      margin-top: 0;
+    }
+    .subheading {
+      font-size: 24px;
+      font-weight: 300;
+      line-height: 1.1;
+      display: block;
+      margin: 10px 0 0;
+      @include sans-serif-font;
+    }
+    @media only screen and (min-width: 768px) {
+      h1 {
+        font-size: 80px;
+      }
+    }
+  }
